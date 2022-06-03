@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning data analysis 
 - 🎓 Studying **Data Base** at  <a href="https://www.sp.senac.br/">SENAC</a>
-- ⚡ Fun fact: I draw and I'm a theatre nerd 
+- ⚡ Fun fact: I draw since I was a kid (slowly getting better) and I'm a theatre nerd 
 - 🌱 Studying more about **data analysis with Pyhton**.
 
 ---
