@@ -1,9 +1,5 @@
 # Hi there, I'm Mickie 👋 
 
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200"/>
-</div>
-
 - 🌱 I’m currently learning data analysis 
 - 🎓 Studying **Data Base** at  <a href="https://www.sp.senac.br/">SENAC</a>
 - ⚡ Fun fact: I draw and I'm a theatre nerd 
@@ -28,5 +24,9 @@
 
 <br />
 <br />
+
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200"/>
+</div>
 
 ---
