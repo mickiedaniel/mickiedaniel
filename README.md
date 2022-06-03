@@ -1,6 +1,7 @@
-# Hi there, I'm Mickie 👋 
+<h1>
+# Hi there, I'm Mickie 
   <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="50" height="50"/>
-
+<h1>
   
 - 🌱 I’m currently learning data analysis 
 - 🎓 Studying **Data Base** at  <a href="https://www.sp.senac.br/">SENAC</a>
