@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center"><h1>
 ### Hi there, I'm Mickie 👋 
-</div>
+  </h1></div>
   
 - 🌱 I’m currently learning data analysis 
 - 🎓 Studying **Data Base** at  <a href="https://www.sp.senac.br/">SENAC</a>
