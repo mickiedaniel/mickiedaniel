@@ -1,8 +1,6 @@
-<div id="header" align="right">
+# Hi there, I'm Mickie 👋 <div id="header" align="right">
   <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200"/>
 </div>
-
-# Hi there, I'm Mickie 👋 
   
 - 🌱 I’m currently learning data analysis 
 - 🎓 Studying **Data Base** at  <a href="https://www.sp.senac.br/">SENAC</a>
