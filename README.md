@@ -1,5 +1,5 @@
 <div align="center">
-# Hi there, I'm Mickie 👋 
+### Hi there, I'm Mickie 👋 
 </div>
   
 - 🌱 I’m currently learning data analysis 
