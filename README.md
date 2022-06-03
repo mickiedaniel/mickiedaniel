@@ -1,5 +1,5 @@
 # Hi there, I'm Mickie 👋 
-  <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="250" height="250"/>
+  <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="50" height="50"/>
 
   
 - 🌱 I’m currently learning data analysis 
