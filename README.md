@@ -1,5 +1,7 @@
+<div align="center">
 # Hi there, I'm Mickie 👋 
-
+</div>
+  
 - 🌱 I’m currently learning data analysis 
 - 🎓 Studying **Data Base** at  <a href="https://www.sp.senac.br/">SENAC</a>
 - ⚡ Fun fact: I draw and I'm a theatre nerd 
