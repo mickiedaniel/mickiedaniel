@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I draw since I was a kid (slowly getting better) and I'm a theatre nerd 
 - 🌱 Studying more about **data analysis with Pyhton**.
 
----
 ### :hammer_and_wrench: Languages and Tools :
 
   ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
