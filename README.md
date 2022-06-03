@@ -1,3 +1,7 @@
+<div id="header" align="left">
+  <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200"/>
+</div>
+
 # Hi there, I'm Mickie 👋 
   
 - 🌱 I’m currently learning data analysis 
@@ -24,8 +28,5 @@
 
 <br />
 
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200"/>
-</div>
 
 ---
