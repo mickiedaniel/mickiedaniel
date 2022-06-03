@@ -1,10 +1,13 @@
 # Hi there, I'm Mickie 👋 
 
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47bsacgw8b7hx1yf363581w629y274p5buisx1q3m6&rid=giphy.gif&ct=g" width="100"/>
+</div>
+
 - 🌱 I’m currently learning data analysis 
-- 🎓 Studying **Data Base** at  <a href="https://www.sp.senac.br/">SENAC</a>.
+- 🎓 Studying **Data Base** at  <a href="https://www.sp.senac.br/">SENAC</a>
 - ⚡ Fun fact: I draw and I'm a theatre nerd 
 - 🌱 Studying more about **data analysis with Pyhton**.
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 
 
