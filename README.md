@@ -1,9 +1,9 @@
 # Hi there, I'm Mickie 👋 
 
 - 🌱 I’m currently learning data analysis 
-- 🎓 &nbsp; Studying **Data Base** at  <a href="https://www.sp.senac.br/">SENAC</a>.
-- ⚡ Fun fact: I am theatre nerd / drums
-- 🌱 &nbsp; Studying more about **data analysis with Pyhton**.
+- 🎓 Studying **Data Base** at  <a href="https://www.sp.senac.br/">SENAC</a>.
+- ⚡ Fun fact: I am theatre nerd 
+- 🌱 Studying more about **data analysis with Pyhton**.
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 
