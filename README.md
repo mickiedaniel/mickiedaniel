@@ -1,7 +1,7 @@
 # Hi there, I'm Mickie 👋 
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="350"/>
+  <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200"/>
 </div>
 
 - 🌱 I’m currently learning data analysis 
