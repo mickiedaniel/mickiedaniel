@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-dark.svg)]([https://www.linkedin.com/in/mickie-ribeiro-84b4611ba/])
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mickie-ribeiro-84b4611ba/)
 [![website](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-]([https://www.facebook.com/mickie.daniel/])
+](https://www.facebook.com/mickie.daniel/)
 
 
 
