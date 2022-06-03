@@ -1,4 +1,4 @@
-<h1 style="font-size:500%; text-align:center;"># Hi there, I'm Mickie<img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="60" height="60"/>
+<h1 style="font-size:5%; text-align:center;"># Hi there, I'm Mickie<img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="60" height="60"/>
 </h1>
   
 - 🌱 I’m currently learning data analysis 
