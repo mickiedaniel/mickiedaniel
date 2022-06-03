@@ -1,6 +1,6 @@
 <h1>
 # Hi there, I'm Mickie 
-  <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="50" height="50"/>
+  <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="60" height="60"/>
 <h1>
   
 - 🌱 I’m currently learning data analysis 
