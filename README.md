@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning data analysis 
 - 🎓 Studying **Data Base** at  <a href="https://www.sp.senac.br/">SENAC</a>.
-- ⚡ Fun fact: I am theatre nerd 
+- ⚡ Fun fact: I draw and I'm a theatre nerd 
 - 🌱 Studying more about **data analysis with Pyhton**.
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr#gh-dark-mode-only](https://www.linkedin.com/in/mickie-ribeiro-84b4611ba/))
+[![website](./img/linkedin-dark.svg)]([https://www.linkedin.com/in/mickie-ribeiro-84b4611ba/])
 [![website](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-](https://www.facebook.com/mickie.daniel/))
+]([https://www.facebook.com/mickie.daniel/])
 
 
 
