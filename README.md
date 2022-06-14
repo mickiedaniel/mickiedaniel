@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" img align="right" width="200" height="200"/>
 
   
-- 🌱 I’m currently learning data analysis 
+- 🌱 I’m currently learning data analysis
 - 🎓 Studying **Data Base** at  <a href="https://www.sp.senac.br/">SENAC</a>
 - ⚡ Fun fact: I draw since I was a kid (slowly getting better) and I'm a theatre nerd 
 - 🌱 Studying more about **data analysis with Pyhton**.
